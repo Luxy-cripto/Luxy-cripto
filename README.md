@@ -9,18 +9,6 @@
   <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,mysql,bootstrap,react,figma,git,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-![Metrics](https://metrics.lecoq.io/Luxy-cripto?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FJakarta)
-
----
-
-## 🔥 Most Used Languages
-
-![Languages](https://metrics.lecoq.io/Luxy-cripto?template=classic&languages=1&base=header&config.timezone=Asia%2FJakarta)
-
 
 ---
 
