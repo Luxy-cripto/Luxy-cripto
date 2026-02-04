@@ -13,15 +13,14 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luxy-cripto&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Luxy-cripto&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/Luxy-cripto?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FJakarta)
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luxy-cripto&layout=compact&theme=tokyonight)
+![Languages](https://metrics.lecoq.io/Luxy-cripto?template=classic&languages=1&base=header&config.timezone=Asia%2FJakarta)
+
 
 ---
 
