@@ -10,22 +10,21 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luxy-cripto&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAMEKAMU&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Luxy-cripto&theme=tokyonight" />
 </p>
-
----
 
 ## 🔥 Most Used Languages
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxy-cripto&layout=compact&theme=tokyonight" />
+</p>
 
   ## 🧰 Tools
 
@@ -36,5 +35,5 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxy-cripto&layout=compact&theme=tokyonight" />
 </p>
