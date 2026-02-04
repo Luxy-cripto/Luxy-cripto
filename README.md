@@ -26,5 +26,15 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
+
+  ## 🧰 Tools
+
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma)
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight" />
 </p>
