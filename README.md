@@ -1,32 +1,31 @@
 <h1 align="center">Hi 👋, I'm Luxy</h1>
-<h3 align="center">Beginner Programmer from Indonesia</h3>
+<h3 align="center">Beginner Programmer from Indonesia 🇮🇩</h3>
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,mysql,bootstrap,react,figma,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,mysql,bootstrap,react,figma,git,vscode" />
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luxy-cripto&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luxy-cripto&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Luxy-cripto&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Luxy-cripto&theme=tokyonight)
+
+---
 
 ## 🔥 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxy-cripto&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luxy-cripto&layout=compact&theme=tokyonight)
 
-  ## 🧰 Tools
+---
+
+## 🧰 Tools I Use
 
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
@@ -35,5 +34,15 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxy-cripto&layout=compact&theme=tokyonight" />
-</p>
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Luxy-cripto&style=for-the-badge)
+
